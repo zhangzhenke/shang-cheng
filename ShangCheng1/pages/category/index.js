@@ -9,7 +9,7 @@ Page({
     // 被点击的左侧的菜单
     currentIndex: 0,
     // 右侧内容的滚动条距离顶部的距离
-     scrollTop: 0
+    scrollTop: 0
   },
   // 接口的返回数据
   Cates: [],

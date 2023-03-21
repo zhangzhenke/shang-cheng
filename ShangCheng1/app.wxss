@@ -1,3 +1,6 @@
+/*
+  阿里图库
+*/
 @import "./styles/iconfont.wxss";
 
 /* 在微信小程序中 不支持 通配符 '*' 

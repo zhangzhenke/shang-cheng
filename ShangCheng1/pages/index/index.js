@@ -6,8 +6,8 @@ Page({
     swiperList: [],
     // 导航 数组
     catesList:[],
-     // 楼层数据
-     floorList:[]
+    // 楼层数据
+    floorList:[]
   },
   // 页面开始加载 就会触发
   onLoad: function(options) {
